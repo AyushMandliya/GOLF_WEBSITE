@@ -440,3 +440,8 @@
     line-height: 20px;
     margin-bottom: 8px;
   }
+
+  footer {  
+    text-align: center;
+    box-shadow: rgb(0 0 0/24%) 0px 3px 8px;
+}
